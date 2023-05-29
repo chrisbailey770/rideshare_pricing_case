@@ -4,8 +4,8 @@
 This was a fun exercise in using optimization to solve for a 12-month pricing strategy that maximizes profit of a new ridesharing business.
 
 Contained in this repository are:
-**driverAcceptanceData.csv** - data with pay offered to drivers and whether or not they accepted the ride request
-**pricing_strategy_notebook.ipynb** - Python notebook detailing an optimization-based solution for a 12-month pricing strategy
+- **driverAcceptanceData.csv** - data with pay offered to drivers and whether or not they accepted the ride request
+- **pricing_strategy_notebook.ipynb** - Python notebook detailing an optimization-based solution for a 12-month pricing strategy
 
 ---
 
